@@ -1,4 +1,4 @@
-package mypackage.javapractice;
+package javapractice.searching;
 
 import java.util.Scanner;
 
